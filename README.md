@@ -72,6 +72,36 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 
 # R4 User Stories
 
+## Persona 1 - Personal Trainer
+
+![Persona 1 - Personal Trainer](./docs/LilyWalker.png)
+
+### User Stories
+
+"As a personal trainer, I want a meal prep service that helps me optimise my macronutrient intake, so I can improve my muscle gain and endurance."
+
+"As someone with a busy training schedule, I want healthy meals that are quick and easy to prepare, so I can stay on top of my nutrition and fuel my workouts without sacrificing performance."
+
+## Persona 2 - Software Engineer
+
+![Persona 2 - Software Engineer](./docs/JamesPatel.png)
+
+### User Stories
+
+"As a professional who works long hours, I want a meal prep service that offers healthy, ready-to-eat meals, so I can maintain a balanced diet despite my demanding schedule."
+
+"As someone with limited nutrition knowledge, I want access to meal plans that are designed for weight management, so I can make better food choices without extensive research."
+
+## Persona 3 - Stay At Home Mother
+
+![Persona 3 - Stay At Home Mother](./docs/SophiaRobinson.png)
+
+### User Stories
+
+"As a health-conscious mother, I want a meal plan that supports my personal health goals, so I can maintain a balanced diet and feel energised throughout my day."
+
+"As a mother of two, I want a meal plan that accommodates my children's dietary preferences, so I can ensure they enjoy their meals while still meeting their nutritional needs."
+
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
 # R6 Screenshots of your Trello board throughout the duration of the project

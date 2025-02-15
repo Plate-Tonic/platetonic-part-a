@@ -68,6 +68,8 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 
 # R2 Dataflow Diagrams
 
+The following dataflow diagrams are structured across multiple levels to progressively illustrate greater detail about a system or process. They highlight how data moves, is processed, and is stored throughout the application.
+
 ## Legend
 
 ![Dataflow Diagram Legend](./docs/DFD_Legend.png)

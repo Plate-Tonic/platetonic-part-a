@@ -73,6 +73,7 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 ![Dataflow Diagram Legend](./docs/DFD_Legend.png)
 
 ## Level 0 - Context Diagram
+
 ![Context Diagram](./docs/DFD_ContextDiagram.png)
 
 ## Level 1 - Main Processes
@@ -110,6 +111,7 @@ HTML provides the structure of web pages. CSS is used for styling, layout, and r
 ### React
 
 React manages the dynamic components:
+
 - **Registration and login**.
 - **User dashboard** - Displays user data, meal plans, and subscription details.
 - **TDEE calculator and calorie/macronutrient tracker** - Tracks calorie and macronutrient intake.
@@ -124,6 +126,7 @@ Built using Node.js and Express.js, the backend handles business logic, data pro
 ### Node.js and Express.js
 
 Key components include:
+
 - **Authentication service** - Manages user login and registration using JWT authentication.
 - Calorie and macronutrient tracker - Monitors and stores user calorie and macronutrient intake.
 - **Meal plan service** - Fetches and stores personalised meal plans based on user preferences.
@@ -141,6 +144,7 @@ The database communicates with the backend by sending and receiving structured d
 ### MongoDB
 
 The application uses MongoDB to store:
+
 - **User data** - Account details, macro tracking, dietary preferences, and payment records.
 - **Meal plan data** - Tailored meal plans based on user preferences and goals.
 - **Subscription data** - User subscription details, including plan type and payment status.
@@ -153,6 +157,7 @@ The application uses MongoDB to store:
 Stripe is integrated as the payment gateway to handle subscriptions and payments securely.
 
 The process involves:
+
 1. **Frontend** - Provides a payment form where users enter card details. **Stripe.js** securely tokenises the card information and sends it to Stripe’s servers.
 2. **Backend** - Communicates with Stripe’s API using a **secret key** to create a payment intent and process transactions.
 3. **Webhooks** - Stripe webhooks are used to handle payment events (e.g. successful payments, subscription cancellations) and update the database accordingly.

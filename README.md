@@ -66,7 +66,34 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 - Netlify for frontend
 - Render for backend
 
-# R2 Dataflow Diagram
+# R2 Dataflow Diagrams
+
+## Legend
+
+![Dataflow Diagram Legend](./docs/DFD_Legend.png)
+
+## Level 0 - Context Diagram
+![Context Diagram](./docs/DFD_ContextDiagram.png)
+
+## Level 1 - Main Processes
+
+### General User Dataflow Diagram
+
+![User Dataflow Diagram](./docs/DFD_User.png)
+
+### Admin User Dataflow Diagram
+
+![Admin Dataflow Diagram](./docs/DFD_Admin.png)
+
+## Level 2 - Sub-Processes
+
+### User Registration and Login Dataflow Diagram
+
+![User Registration & Login Dataflow Diagram](./docs/DFD_RegistrationLogin.png)
+
+### Subscription Payment Dataflow Diagram
+
+![Payment Dataflow Diagram](./docs/DFD_Payment.png)
 
 # R3 Application Architecture Diagram
 

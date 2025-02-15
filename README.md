@@ -74,7 +74,7 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 
 ## Persona 1 - Personal Trainer
 
-![Persona 1 - Personal Trainer](./docs/LilyWalker.png)
+![Persona 1 - Personal Trainer](./docs/Persona_LilyWalker.png)
 
 ### User Stories
 
@@ -84,7 +84,7 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 
 ## Persona 2 - Software Engineer
 
-![Persona 2 - Software Engineer](./docs/JamesPatel.png)
+![Persona 2 - Software Engineer](./docs/Persona_JamesPatel.png)
 
 ### User Stories
 
@@ -94,7 +94,7 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 
 ## Persona 3 - Stay At Home Mother
 
-![Persona 3 - Stay At Home Mother](./docs/SophiaRobinson.png)
+![Persona 3 - Stay At Home Mother](./docs/Persona_SophiaRobinson.png)
 
 ### User Stories
 

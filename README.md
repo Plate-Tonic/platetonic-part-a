@@ -97,6 +97,8 @@ Provides blogs, recipes, and tips to promote healthy eating habits.
 
 # R3 Application Architecture Diagram
 
+![Application Architecture Diagram](./docs/AAD.png)
+
 # R4 User Stories
 
 ## Persona 1 - Personal Trainer

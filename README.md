@@ -1,4 +1,4 @@
-# PlateTonic T3A2-A hello
+# PlateTonic T3A2-A 
 
 ### Contributors
 
@@ -198,6 +198,317 @@ The process involves:
 "As a mother of two, I want a meal plan that accommodates my children's dietary preferences, so I can ensure they enjoy their meals while still meeting their nutritional needs."
 
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
+
+For each page, we have planned and designed low to medium level fidelity using Figma. This is to show and demonstrate and draft each page's layout to understand the project's flow, structure and the usage and implementation of each component on each page. Furthermore, this will be set as the base standard to create a high fidelity wireframe in the future and improve on the user interface to ensure user experience is met to it's full potential.
+
+Each wireframe template uses the following dimensions of approximately as base and ensures responsive design:
+
+- **Desktop**: 1920 x 1080
+- **Tablet**: 728 x 1024
+- **Mobile**: 375 x 812
+
+Each page will consist of at least:
+- **Navigation Bar**: To navigate to different pages of the website such as user login page, menu, about, contact, etc.
+    - In mobile view, the navigation buttons will be condensed into a hamburger style drop down menu.
+- **Footer**: Will consist of different hyperlinks to different pages as above
+    - In mobile view, this will be condensed into a drop down menu.
+
+### 1. Homepage
+
+The home page will consist of the main information of marketing Plate Tonic as a meal prep service. 
+The key features will include:
+
+- **Banners**: As images to showcase and market the brand such as brand information and testimonials
+- **Buttons**: To redirect a user to relevant page. 
+    - For example, clicking on "Get Started" will direct a user to the TDEE page to calculate their recommended calorie intake and macro.
+
+##### Wireframe
+<details>
+  <summary>Home Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/home_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Home Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/home_page.jpg)
+
+</details>
+
+### 2. About Page
+
+The purpose of the about page is to provide information about the company such as the business goal and objectives for the user to get to know more about the company.
+The key features will include:
+
+- **Images & Text**: This will consist of main marketing image and information text about Plate Tonic.
+
+##### Wireframe
+
+<details>
+  <summary>About Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/about_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>About Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/about_page.jpg)
+
+</details>
+
+### 3. Login Page
+
+The login page will allow a user to use their registered information to then access the user dashboard. 
+The key features will include:
+
+- **Fill Text**: This is where the user will input their email address and password
+- **Login button**: This button is to redirect the user to the user dashboard if successful
+- **Hyperlinks**: If a user has forgotten their password or has not registered an account yet, there will be a hyperlink option for the user to do what they require.
+
+##### Wireframe
+
+<details>
+  <summary>Login Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/login_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Login Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/login_page.jpg)
+
+</details>
+
+### 4. Registraton Page
+
+The registration page is accessed from the login page once the user has clicked on the hyperlink option. Here they are able to enter their details to register an account.
+The key features will include:
+
+- **Fill Text**: Allows the user to enter their email address, password, first and last name.
+- **Submit button**: Will allow user to submit their details to create an account if email address is not in use.
+- **Hyperlink**: If a user has an account already or notices that the email address has been used already, they can redirect themselves to the login page to attempt to log in or direct themselves to the forgot password page.
+
+##### Wireframe
+
+<details>
+  <summary>Register Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/register_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Register Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/register_page.jpg)
+
+</details>
+
+### 5. User Dashboard Page
+
+The purpose of the user dashboard is to allow the user to navigate through their account and access certain features that are available to them such as managing subscriptions, viewing their current meal plan, tracking their calories and macros or to update/view their personal details.
+The key features will include:
+
+- **Buttons**: This will allow the user to navigate between the following options such as clicking on subscription to view it in the content next to it (on the right)
+- **Information Box**: A windowed area next to the button navigations will show the user relevant information to what they have clicked on
+    - For example, clicking on Subscription after viewing their personal details will change the window to show the user their current subscription.
+
+##### Wireframe
+
+<details>
+  <summary>User Dashboard Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/user_dashboard_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>User Dashboard Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/user_dashboard_page.jpg)
+
+</details>
+
+### 6. TDEE Page
+
+The TDEE Page (Total Daily Energy Expenditure) is a page that allows the user to enter their details to calculate the recommended calorie and macro intake for their meal plans.
+The key features will include:
+
+- **Buttons**: The user will be able to click the relevant button to enter their details. Once they enter all details, they can click on the submit button to be redirected to the next page (menu page) to show their recommended calorie and macro intake and the recommended meals.
+    - The information to click and enter will consist of their gender, age, current and target weight and their current activity for exercise.
+
+##### Wireframe
+
+<details>
+  <summary>TDEE Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/TDEE_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>TDEE Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/TDEE_page.jpg)
+
+##### Wireframe
+
+</details>
+
+### 7. Subscription Page
+
+The subscription page allows user's to opted in to Plate Tonic's services so they are able gain access to specific features such as choosing/ordering their meals for their meal plan.
+The key features will include:
+
+- **Buttons**: This allows users to choose from the following options that suits their needs
+    - For example, user can choose between a weekly or monthly subscription. By choosing a monthly subscription, it can be slightly cheaper allowing the user to save on expense.
+- **Fill Text**: An area for the user to enter their details such as postal address.
+- **Drop down Menu**: This area will allow the user to choose from the following payment methods to purchase the subscription.
+- **Information box**: This will show the user the summary of their chosen options and pricing before hitting the submit button below.
+
+##### Wireframe
+
+<details>
+  <summary>Subscription Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/subscription_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Subscription Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/subscription_page.jpg)
+
+</details>
+
+### 8. Menu Page
+
+The menu page is for the user to see what meals are available to choose from before they subscribe to the services or to choose their meals if they are already using the service.
+The key features will include:
+
+- **Filter Menu**: User will be able to filter accordingly to filter options to their needs
+- **Calorie/Macro information**: Once a user has entered their information on the TDEE calculator, this information will show and calculate accordingly to what is recommended as reference and total of calories/macros from the meals chosen. If the user has not entered these details, there will be a hyperlink to redirect the user to calculate if they wish to do so.
+- **Image Button**: A list of meals a user can view. Once they click on one of the options, it will show the user in a small window more information about that specific meal.
+
+##### Wireframe
+
+<details>
+  <summary>Menu Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/menu_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Menu Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/menu_page.jpg)
+
+</details>
+
+### 9. Payment Page
+
+The payment page is the final page after submitting the details from the Subscription Page. Here the user is able to enter their payment details and finalize their purchases
+The key feature will include:
+
+- **Fill Text**: This area is for the user to enter their billing details and payment method details
+- **Button**: For user to submit and finalize their purchase.
+
+##### Wireframe
+
+<details>
+  <summary>Payment Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/payment_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Payment Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/payment_page.jpg)
+
+</details>
+
+### 10. Blog Page
+
+The blog page will contain different articles that a user can view and access that shows different information. For example, an article on 'How to stay fit' is a blog post a user can view to get more information about this topic.
+The key feature will include:
+
+- **Filter Menu**: User is able to filter by the topic of what they wish to see.
+- **Image Link**: User is able to access the blog post by clicking on the image and this will redirect them to the blog itself.
+
+##### Wireframe
+
+<details>
+  <summary>Blog Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/blog_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Blog Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/blog_page.jpg)
+
+</details>
+
+### 11. Contact Page
+
+The contact page's purpose is to allow user to send any enquiries they have whether it is about the brand, services, etc.
+The key feature will include:
+
+- **Fill Text**: An area where the user is able to enter the details of their query.
+- **Button**: After entering the details, user can click the send/submit button to send off their query.
+- **Information Box**: An area providing further information for the user.
+    - For example: "If you have any queries about any of our services or require assistance, feel free to submit it through our contact page. We are always happy to help you and will get back to you as soon as possible".
+    - It will also contain a direct email if they wish to do so rather submitting it through the contact page.
+
+##### Wireframe
+
+<details>
+  <summary>Contact Page</summary>
+
+  ![wireframe](docs/wireframes/LOW/Contact_page.jpg)
+
+</details>
+
+##### Detailed Wireframe
+
+<details>
+  <summary>Contact Page</summary>
+
+  ![wireframe](docs/wireframes/LOW(Detail)/contact_page.jpg)
+
+</details>
 
 # R6 Screenshots of your Trello board throughout the duration of the project
 

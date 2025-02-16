@@ -200,3 +200,59 @@ The process involves:
 # R5 Wireframes for multiple standard screen sizes, created using industry standard software
 
 # R6 Screenshots of your Trello board throughout the duration of the project
+
+Our team used Trello to implement Agile methodology and streamline task management. Trello’s visual interface made it easy to track progress at a glance.
+
+To organise our workflow, we structured our Trello board into four lists representing task progress:
+
+- **To Do** - Pending tasks.
+- **Doing** - Tasks in progress.
+- **Review** - Completed tasks awaiting feedback.
+- **Done** - Approved and finalised tasks.
+
+We followed an iterative approach, moving tasks through these stages. Once a task reached the Review column, team members provided feedback to ensure it met project standards. After approval, the task was documented in the README file on our repository and moved to Done.
+
+In addition to Trello, our team held weekly check-ins to review progress and discuss pain points. We also used Discord for ongoing collaboration, allowing us to discuss the project in real time. This approach helped maintain alignment and adaptability throughout the development process.
+
+## 28 January
+
+Cards have been created with detailed checklists for clarity. The team has established a structured check-in schedule, meeting every Thursday to review progress. A final check-in has been scheduled on the day of the deadline to ensure all tasks are completed and project objectives are met.
+
+![Trello board on 28/01/25](./docs/Trello_280125_1.png)
+![Trello board on 28/01/25](./docs/Trello_280125_2.png)
+
+## 31 January
+
+Weekly check-ins have been shifted to Fridays to better align with our personal schedules. The "Website Description" has been completed, and team members have begun working on "User Stories" and "Wireframes".
+
+Adjustments have been made to the "Wireframes" checklist to streamline certain pages for simplicity.
+
+![Trello board on 31/01/25](./docs/Trello_310125_3.png)
+
+### Screenshot of Progress
+
+![Trello board on 31/01/25](./docs/Trello_310125_1.png)
+![Trello board on 31/01/25](./docs/Trello_310125_2.png)
+
+## 7 February
+
+"User Stories" and "Wireframes" have been submitted for review. Work has begun on drafting the various diagram levels within the "Data Flow Diagram."
+
+### Screenshot of Progress
+
+![Trello board on 07/02/25](./docs/Trello_070225_1.png)
+
+## 14 February
+
+The team has begun adding components to the README file in the repository. The "Data Flow Diagram" has been completed, while the "Wireframes" have been re-evaluated for further refinement, requiring additional adjustments to the home page and user dashboard.
+
+Adjustments have been made to the "Application Architecture Diagram" checklist for a more detailed breakdown of the required tasks.
+
+![Trello board on 14/02/25](./docs/Trello_140225_3.png)
+
+### Screenshot of Progress
+
+![Trello board on 14/02/25](./docs/Trello_140225_1.png)
+![Trello board on 14/02/25](./docs/Trello_140225_2.png)
+
+## 16 February

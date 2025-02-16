@@ -580,3 +580,7 @@ Adjustments have been made to the "Application Architecture Diagram" checklist f
 ![Trello board on 14/02/25](./docs/Trello_140225_2.png)
 
 ## 16 February
+
+All tasks have been completed, reviewed, and documented in the README file within the repository.
+
+![Trello board on 16/02/25](./docs/Trello_160225_1.png)
